@@ -1,5 +1,5 @@
-# <p><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="32" height="32" alt="C++"/>    Cpp Repos</p> #
-## <p><img src="https://img.icons8.com/?size=100&id=ZpVNQprWXeIO&format=png&color=000000" width="32" height="32" alt="CMake"/>    All of these Console Apps made using CMake</p> ##
-### <p><img src="https://img.icons8.com/?size=100&id=mIiskLGKUQHo&format=png&color=000000" width="32" height="32" alt="Time"/>    Last Update: <time> 18.10.2024 </time></p> ###
+# <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="32" height="32" alt="C++"/> <p>Cpp Repos</p> #
+## <img src="https://img.icons8.com/?size=100&id=ZpVNQprWXeIO&format=png&color=000000" width="32" height="32" alt="CMake"/> <p>All of these Console Apps made using CMake</p> ##
+### <img src="https://img.icons8.com/?size=100&id=mIiskLGKUQHo&format=png&color=000000" width="32" height="32" alt="Time"/> <p>Last Update: <time> 18.10.2024 </time></p> ###
 
 
